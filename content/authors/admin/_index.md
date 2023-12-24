@@ -37,10 +37,10 @@ interests:
 education:
   courses:
     - course: PhD in Genomics & Computational Biology
-      institution: University of Pennsylvania Perelman School of Medicine
+      institution: University of Pennsylvania
       year: 2023
     - course: MA in Statistics
-      institution: University of Pennsylvania Wharton School of Business
+      institution: University of Pennsylvania
       year: 2022
     - course: BS in Computer Science
       institution: Washington University in St. Louis
