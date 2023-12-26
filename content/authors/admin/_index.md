@@ -25,7 +25,7 @@ role: Computational biologist
 #     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: << Fill THIS >>
 
 # Interests to show in About widget
 interests:
@@ -121,6 +121,16 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+I'm a computational biologist
+
+- Computational biologist interested in early-stage translational science
+- Pride myself on interest and foundation in both biology and machine learning...spearhead algorithmic development and target-discovery projects
+- Over the last year, I've spent time in the early-stage biotech venture world to get a better feel for the therapeutic landscape and mechanics of venture
+- Going forward I am more bullish than ever about the role of ML and technology to tackle the biggest problems in human health
+- Consulting...reach out
+
+
 
 << FILL IN BIO >>
 {style="text-align: justify;"}
