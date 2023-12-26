@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+# title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Benjamin J.
@@ -102,8 +102,8 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=0D9ch2kAAAAJ&hl
   - icon: github
     icon_pack: fab
