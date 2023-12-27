@@ -32,7 +32,6 @@ interests:
   - Machine Learning
   - Bayesian Statistics
   - Circadian Biology
-  - Vascular Biology
   - Therapeutics
 
 # Education to show in About widget
