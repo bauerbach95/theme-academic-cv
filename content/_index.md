@@ -234,8 +234,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        << Text about contacting me >>
+      text: # |-
+        # << Text about contacting me >>
       # Contact (add or remove contact options as necessary)
       email: benauer@pennmedicine.upenn.edu
       # phone: 888 888 88 88
