@@ -122,15 +122,10 @@ social:
 highlight_name: true
 ---
 
-I'm a computational biologist
+I'm a computational biologist interested in early-stage translational science. Having trained at the intersection of biology and machine learning, I am equally comfortable building novel AI approaches to better understand biology as I am with diving into signaling pathways and designing wet-lab experiments. My graduate work focused on leveraging single-cell RNA-sequencing to understand various aspects of circadian and vascular biology, and spanned both algorithmic development & target discovery projects. During this time, I developed computational expertise in representation learning and in Bayesian approaches to incorporate domain knowledge of biology into machine learning algorithms. Since graduate school, I've spent time in the biotech venture world to get a better understanding of early-stage biotech and the therapeutic landscape. Going forward, I am more bullish than ever about the role of ML and technology to tackle the biggest problems in human health...and I certainly aim to be an active contributor to this movement in more ways than one. 
 
-- Computational biologist interested in early-stage translational science
-- Pride myself on interest and foundation in both biology and machine learning...spearhead algorithmic development and target-discovery projects
-- Over the last year, I've spent time in the early-stage biotech venture world to get a better feel for the therapeutic landscape and mechanics of venture
-- Going forward I am more bullish than ever about the role of ML and technology to tackle the biggest problems in human health
-- Consulting...reach out
+In my spare time, I like to play squash, ski, hike, cook, sing, and go to standup comedy shows.
 
+I intend to use this website to write about science and biotech (whether that writing is any good or not...I make no promises). Feel free to reach out. Always love to discuss new ideas.
 
-
-<< FILL IN BIO >>
 {style="text-align: justify;"}
